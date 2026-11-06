@@ -9,12 +9,12 @@
     "sha256": "b678d575087a94a45c2ae901f9161a3332ce5a44b405caaa91ac127ce27e09e8"
   },
   "windows": {
-    "version": "1.8.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.8.1.exe",
-    "notes": "Redesigned About page.",
+    "version": "1.8.2",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.8.2.exe",
+    "notes": "Fixes rounded corners on the video in full screen.",
     "force": false,
-    "build": 15,
+    "build": 16,
     "minBuild": 0,
-    "signature": "4fc35a9845626e1f53f937e6cd51506857f0ad809b882580bb51a1f3bbe46a7fb63a599c6966a44dc240282de841bafbe3b12fdd3b8781ff9b9fb6746d6b910a"
+    "signature": "152ecbd55af71f9e28b70a7276de831b191eb7e049e14b23391274f1e1e451d828d1cadfbb313d1314422938698c93c9908b778111b843cb76d4ed7211beea08"
   }
 }
