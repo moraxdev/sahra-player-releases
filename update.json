@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "1.6.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.6.0.apk",
-    "notes": "",
+    "version": "1.7.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.7.0.apk",
+    "notes": "Fixes the repeated buttons in the player.",
     "force": false,
-    "code": 8,
+    "code": 9,
     "minCode": 0,
-    "sha256": "5a511de6e10de3f31681b08677b89fc971bf9e41440560bc005746421d548760"
+    "sha256": "e4b398accb46c91b93ea87996c6ff79258eae331703ba485a6c39ab3ed3e7768"
   },
   "windows": {
     "version": "13",
