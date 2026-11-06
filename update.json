@@ -1,0 +1,20 @@
+{
+  "android": {
+    "version": "1.6.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.6.0.apk",
+    "notes": "",
+    "force": false,
+    "code": 8,
+    "minCode": 0,
+    "sha256": "5a511de6e10de3f31681b08677b89fc971bf9e41440560bc005746421d548760"
+  },
+  "windows": {
+    "version": "13",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-13.exe",
+    "notes": "",
+    "force": false,
+    "build": 13,
+    "minBuild": 0,
+    "signature": "7afad9d5d33f3f5e5a2280e568142603bfee1006fabaf5c1e8edd12e4f92be6f01478611fac498aa7bd0269c9504b28579cbaca6e878c334c220f2efcfa96e00"
+  }
+}
