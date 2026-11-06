@@ -1,20 +1,20 @@
 {
   "android": {
-    "version": "1.7.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.7.0.apk",
-    "notes": "Fixes the repeated buttons in the player.",
+    "version": "1.8.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.8.0.apk",
+    "notes": "New: Sync button with daily, weekly or monthly auto sync. Sort and filter for movies and series. New loading animation.",
     "force": false,
-    "code": 9,
+    "code": 10,
     "minCode": 0,
-    "sha256": "e4b398accb46c91b93ea87996c6ff79258eae331703ba485a6c39ab3ed3e7768"
+    "sha256": "6593ad0bbd4cb99b33e7cbbe165eb42cc71e61f9a7880d4f83aac61575d5cc28"
   },
   "windows": {
-    "version": "13",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-13.exe",
-    "notes": "",
+    "version": "1.8.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.8.0.exe",
+    "notes": "New: Sync button with daily, weekly or monthly auto sync. Sort and filter for movies and series. New loading animation.",
     "force": false,
-    "build": 13,
+    "build": 14,
     "minBuild": 0,
-    "signature": "7afad9d5d33f3f5e5a2280e568142603bfee1006fabaf5c1e8edd12e4f92be6f01478611fac498aa7bd0269c9504b28579cbaca6e878c334c220f2efcfa96e00"
+    "signature": "6ee2d2833e45ac1d66f5d7c1c9d4bc318999293e6a66eb692995851d62d401983f72f763a2a843a65a9e5495d0c3c4b258d01abcaf932c79a50eebc5cfd58909"
   }
 }
