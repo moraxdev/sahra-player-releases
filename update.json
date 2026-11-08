@@ -9,12 +9,12 @@
     "sha256": "6416860d27fa152b07f838b18ea38572adcc7ace8f37adc3cd632e80a755657f"
   },
   "windows": {
-    "version": "1.11.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.11.0.exe",
-    "notes": "Genre filter for movies and series, from IMDb data. IMDb data is prepared again once after this update.",
+    "version": "1.11.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.11.1.exe",
+    "notes": "New app icon.",
     "force": false,
-    "build": 20,
+    "build": 21,
     "minBuild": 0,
-    "signature": "75168c66760264685e480684208156a411c7bc747c0334a1ac7cb8fc4d7f46fbf9d6500409ba5e06b1f7b1c3a11ea00d0a9bd38d6ab5b8359d87ad8a20a7b607"
+    "signature": "718c72725e756155e75dd9219d690e4cf2887781bb1dddcf51ca5a2da414e7f6cd846c4d873cc67c4602103871283ed4a352c13f64dfe8090f1ae27105cad705"
   }
 }
