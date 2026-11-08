@@ -1,20 +1,20 @@
 {
   "android": {
-    "version": "1.8.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.8.1.apk",
-    "notes": "Redesigned About page.",
+    "version": "1.9.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.9.0.apk",
+    "notes": "IMDb ratings on movies and series, with sorting by IMDb rating. Add your OMDb key in Settings.",
     "force": false,
-    "code": 11,
+    "code": 12,
     "minCode": 0,
-    "sha256": "b678d575087a94a45c2ae901f9161a3332ce5a44b405caaa91ac127ce27e09e8"
+    "sha256": "eb3b3a453acdf491a33e6ff18b4ba2a8445199bb3c221a8e49514d4b2afa521a"
   },
   "windows": {
-    "version": "1.8.3",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.8.3.exe",
-    "notes": "Continue watching row on the home screen.",
+    "version": "1.9.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.9.0.exe",
+    "notes": "IMDb ratings on movies and series, with sorting by IMDb rating. Add your OMDb key in Settings.",
     "force": false,
-    "build": 17,
+    "build": 18,
     "minBuild": 0,
-    "signature": "d682691c57bfa5cb9a8d7f7994ea7aed9273e84c4081fb7b39b3865329704a5c3d436ca172a1d169251fe0b559e908a1ce0a50c7da4ca6b6432ef828461e1a09"
+    "signature": "9afd5213246f04df7525111abf4f080397fb491009850e2e6a67c0bcbe112cb1223960f8207ebfbc4e49fd5528986a04e6badb7719e5e2fc9d6f9f3095350d0c"
   }
 }
