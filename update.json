@@ -1,20 +1,20 @@
 {
   "android": {
-    "version": "1.10.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.10.0.apk",
-    "notes": "IMDb ratings now come straight from IMDb with no key needed. They appear a few minutes after the first start.",
+    "version": "1.11.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.11.0.apk",
+    "notes": "Genre filter for movies and series, from IMDb data. IMDb data is prepared again once after this update.",
     "force": false,
-    "code": 13,
+    "code": 14,
     "minCode": 0,
-    "sha256": "f28e120a8790f130f7d7850ce5e87598c2fc5b77319d482821181d633000dc88"
+    "sha256": "6416860d27fa152b07f838b18ea38572adcc7ace8f37adc3cd632e80a755657f"
   },
   "windows": {
-    "version": "1.10.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.10.0.exe",
-    "notes": "IMDb ratings now come straight from IMDb with no key needed. They appear a few minutes after the first start.",
+    "version": "1.11.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.11.0.exe",
+    "notes": "Genre filter for movies and series, from IMDb data. IMDb data is prepared again once after this update.",
     "force": false,
-    "build": 19,
+    "build": 20,
     "minBuild": 0,
-    "signature": "06ada47f7f60beae8a0db9807480d20ee26482256a0d99b88710b014c0b902b8cad66afdafacd9dfa1121e5025516b943203cf9ca1e43ce05083672c647ec209"
+    "signature": "75168c66760264685e480684208156a411c7bc747c0334a1ac7cb8fc4d7f46fbf9d6500409ba5e06b1f7b1c3a11ea00d0a9bd38d6ab5b8359d87ad8a20a7b607"
   }
 }
