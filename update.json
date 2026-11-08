@@ -1,20 +1,20 @@
 {
   "android": {
-    "version": "1.11.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.11.0.apk",
-    "notes": "Genre filter for movies and series, from IMDb data. IMDb data is prepared again once after this update.",
+    "version": "1.11.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.11.1.apk",
+    "notes": "Settings now show IMDb preparation progress and how many titles have a rating.",
     "force": false,
-    "code": 14,
+    "code": 15,
     "minCode": 0,
-    "sha256": "6416860d27fa152b07f838b18ea38572adcc7ace8f37adc3cd632e80a755657f"
+    "sha256": "2f707bb96b520d521d5f48bd1f71a853b339781a86ff0be1d594de173442c43b"
   },
   "windows": {
-    "version": "1.11.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.11.1.exe",
-    "notes": "New app icon.",
+    "version": "1.11.2",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.11.2.exe",
+    "notes": "Settings now show IMDb preparation progress and how many titles have a rating.",
     "force": false,
-    "build": 21,
+    "build": 22,
     "minBuild": 0,
-    "signature": "718c72725e756155e75dd9219d690e4cf2887781bb1dddcf51ca5a2da414e7f6cd846c4d873cc67c4602103871283ed4a352c13f64dfe8090f1ae27105cad705"
+    "signature": "2d6fcb5ffd4bd2529383cea80d601bc10af76e46b1e18801dd3f9a00a42ffcc1d1a6b4e18c4238b406ffb8cbea03f0196e54645863154189790b8e45db789a04"
   }
 }
