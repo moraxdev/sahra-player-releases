@@ -1,20 +1,20 @@
 {
   "android": {
-    "version": "1.12.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.12.0.apk",
-    "notes": "Ratings and sorting now use IMDb only. New Country filter: Korean, Japanese, Chinese, Indian, Thai, Arabic, Russian. IMDb data is prepared again once.",
+    "version": "1.12.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.12.1.apk",
+    "notes": "Removed the country filter.",
     "force": false,
-    "code": 16,
+    "code": 17,
     "minCode": 0,
-    "sha256": "1ac7e6154df4ef45b5f639b2d16bc3486c11ef8435bfb14ebdba73518b4b339a"
+    "sha256": "20806c5949e2a368e23f2de7e3f12cabb8c6713a5f4094481a044a93093f665d"
   },
   "windows": {
-    "version": "1.12.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.12.0.exe",
-    "notes": "Ratings and sorting now use IMDb only. New Country filter: Korean, Japanese, Chinese, Indian, Thai, Arabic, Russian. IMDb data is prepared again once.",
+    "version": "1.12.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.12.1.exe",
+    "notes": "Removed the country filter.",
     "force": false,
-    "build": 23,
+    "build": 24,
     "minBuild": 0,
-    "signature": "e6966dc558360adba1c7751240571b37d8ca16d80b1d0f5e0ba48342ed97e94978d0519c694404d26fecb1d08b5dbe0cfd7c058845ab2956ff84f6421b688506"
+    "signature": "afc2b00a440a9a2d8e9251b2b4714960f5b4eb8a055f8e3071a58945cd4e9989ca5381c78822ebfec51237e8deef09fee753a5d0f2b80cb8a4d2c5ff7bd13b00"
   }
 }
