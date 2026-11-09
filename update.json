@@ -1,20 +1,20 @@
 {
   "android": {
-    "version": "1.13.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.13.1.apk",
-    "notes": "Next and previous episode now also work when you resume from Continue watching.",
+    "version": "1.13.4",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.13.4.apk",
+    "notes": "Gold player buttons; picture format is an icon now. Fixed: Next/Previous episode error on Windows. Shows internet speed only.",
     "force": false,
-    "code": 19,
+    "code": 20,
     "minCode": 0,
-    "sha256": "09a519a6a81555b94b57fd587feed20d13fa281eee7a12cc7aa2e838c1215abb"
+    "sha256": "83b7865540f15e856018d543c4e768bc87a9207996745fb2f7088e3b33819cb9"
   },
   "windows": {
-    "version": "1.13.3",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.13.3.exe",
-    "notes": "Fixed: Next/Previous episode no longer shows 'no player attached'.",
+    "version": "1.13.4",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.13.4.exe",
+    "notes": "Gold icon-only player buttons. Shows internet speed only.",
     "force": false,
-    "build": 28,
+    "build": 29,
     "minBuild": 0,
-    "signature": "4692c9a86ffec40db6d5e2faa6dc31f655354a461ba29c2617be0d769d538a7ff8f1b753e90b415ba38d849be648fd89c1555772f74a5593030a7a4f81979806"
+    "signature": "96381c50e0a0d0f23d3931e06008773f937b2cdd2b63e2b789920e30a8ed0872398b4bf0fb2757f017dc93ffd099ed34d5e4dd2a9c28e3c4d3eb71034144be0d"
   }
 }
