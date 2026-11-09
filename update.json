@@ -9,12 +9,12 @@
     "sha256": "09a519a6a81555b94b57fd587feed20d13fa281eee7a12cc7aa2e838c1215abb"
   },
   "windows": {
-    "version": "1.13.2",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.13.2.exe",
-    "notes": "Fixes the error when moving to the next or previous episode.",
+    "version": "1.13.3",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.13.3.exe",
+    "notes": "Fixed: Next/Previous episode no longer shows 'no player attached'.",
     "force": false,
-    "build": 27,
+    "build": 28,
     "minBuild": 0,
-    "signature": "caed79d14bc49334179cdf20c0e30c31d07a0124e4c933dde34b637378521e7516a74afdf091c3ce87c4cfb0db5790e30e2ccf4717709da7dba92e417a00d60d"
+    "signature": "4692c9a86ffec40db6d5e2faa6dc31f655354a461ba29c2617be0d769d538a7ff8f1b753e90b415ba38d849be648fd89c1555772f74a5593030a7a4f81979806"
   }
 }
