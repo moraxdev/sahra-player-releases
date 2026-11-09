@@ -1,20 +1,20 @@
 {
   "android": {
-    "version": "1.13.4",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.13.4.apk",
-    "notes": "Gold player buttons; picture format is an icon now. Fixed: Next/Previous episode error on Windows. Shows internet speed only.",
+    "version": "1.14.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.14.0.apk",
+    "notes": "New Pop Brutal look.",
     "force": false,
-    "code": 20,
+    "code": 21,
     "minCode": 0,
-    "sha256": "83b7865540f15e856018d543c4e768bc87a9207996745fb2f7088e3b33819cb9"
+    "sha256": "6388b687f7bfc1492295d9e617ef68bdbcc87070fe9eb2c2e718d3862b183d4a"
   },
   "windows": {
-    "version": "1.13.4",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.13.4.exe",
-    "notes": "Gold icon-only player buttons. Shows internet speed only.",
+    "version": "1.14.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.14.0.exe",
+    "notes": "New Pop Brutal look.",
     "force": false,
-    "build": 29,
+    "build": 30,
     "minBuild": 0,
-    "signature": "96381c50e0a0d0f23d3931e06008773f937b2cdd2b63e2b789920e30a8ed0872398b4bf0fb2757f017dc93ffd099ed34d5e4dd2a9c28e3c4d3eb71034144be0d"
+    "signature": "1440158e565364b0a29e73c3152f55e5a3fd8978f999c70d665fb5626e3e3a9889e0a3ec0a82241c1bb69c972d1de5d4de316539ddf842884f4f7ce468533d06"
   }
 }
