@@ -1,20 +1,20 @@
 {
   "android": {
-    "version": "1.13.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.13.0.apk",
-    "notes": "Previous and next episode buttons in the player.",
+    "version": "1.13.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.13.1.apk",
+    "notes": "Next and previous episode now also work when you resume from Continue watching.",
     "force": false,
-    "code": 18,
+    "code": 19,
     "minCode": 0,
-    "sha256": "8ecb6a3b1ecb8f7638d9a10519384839e21df5378fba6963933b71712bb05aab"
+    "sha256": "09a519a6a81555b94b57fd587feed20d13fa281eee7a12cc7aa2e838c1215abb"
   },
   "windows": {
-    "version": "1.13.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.13.0.exe",
-    "notes": "Previous and next episode buttons in the player.",
+    "version": "1.13.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.13.1.exe",
+    "notes": "Next and previous episode now also work when you resume from Continue watching.",
     "force": false,
-    "build": 25,
+    "build": 26,
     "minBuild": 0,
-    "signature": "c9ce4b6137af1aaec66f0f1fbadeb1e5d1e0ec0c48dd758a3fcdf28f32612854754c9107107985f2bec4068b529aa21f79e41f45644df10f5f09220309248009"
+    "signature": "ce1fdfa2d0b4d4361b1b3f1180c16178b64b7339a31185ea120c218b9af97784036af2aeed9a25b6d33781cefe897e72c25f61907c9bfce1b16ce9870e8ea305"
   }
 }
