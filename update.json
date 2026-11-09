@@ -1,20 +1,20 @@
 {
   "android": {
-    "version": "1.14.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.14.0.apk",
-    "notes": "New Pop Brutal look.",
+    "version": "1.14.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.14.1.apk",
+    "notes": "Livelier categories.",
     "force": false,
-    "code": 21,
+    "code": 22,
     "minCode": 0,
-    "sha256": "6388b687f7bfc1492295d9e617ef68bdbcc87070fe9eb2c2e718d3862b183d4a"
+    "sha256": "e2ee630f8f324212a855587dac3bff98e6a67e682fb930623b7bc37f72a5dcd8"
   },
   "windows": {
-    "version": "1.14.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.14.0.exe",
-    "notes": "New Pop Brutal look.",
+    "version": "1.14.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.14.1.exe",
+    "notes": "Livelier category cards.",
     "force": false,
-    "build": 30,
+    "build": 31,
     "minBuild": 0,
-    "signature": "1440158e565364b0a29e73c3152f55e5a3fd8978f999c70d665fb5626e3e3a9889e0a3ec0a82241c1bb69c972d1de5d4de316539ddf842884f4f7ce468533d06"
+    "signature": "8bb8c8be66290de01b78df26186056bf89f78607ff583d48a53d81e6f7c46e9ff55f387f748d391df0ce1195578631aef9ef4976ddf6e7cf4f0998f7ba64e404"
   }
 }
