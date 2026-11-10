@@ -9,12 +9,12 @@
     "sha256": "5f599578cf84ee6c19a586d3378be4f0cfe5444c5faf5f2d0b130e03d64a5b21"
   },
   "windows": {
-    "version": "1.14.5",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.14.5.exe",
-    "notes": "Fixed: Continue watching now keeps every movie and series you start.",
+    "version": "1.15.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.15.0.exe",
+    "notes": "Sahra is now one file: copy Sahra-Player.exe to any PC and run it.",
     "force": false,
-    "build": 35,
+    "build": 36,
     "minBuild": 0,
-    "signature": "babca18592b3da606c0ffe21fd3dcae045930547833acb24d5e208dcc88419593072128819716894936578bc61c9417817b986a2e090e6d30eaa477bc73f150b"
+    "signature": "ce47315c77bd2aa42a49cde85f0e9efc6f205e646f53ee81985d31b852347db41620d1181cb88ace37b3b74db8ef46bfc58f56112546443abfe545802e506103"
   }
 }
