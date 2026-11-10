@@ -9,12 +9,12 @@
     "sha256": "69f47787469e3bd8668e25976d821928db7545b57ea7e60ff70f397b8fb687ca"
   },
   "windows": {
-    "version": "1.14.2",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.14.2.exe",
-    "notes": "Fixed: Next/Previous could go to the wrong episode with some providers.",
+    "version": "1.14.3",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.14.3.exe",
+    "notes": "The top bar in the player now hides with the controls.",
     "force": false,
-    "build": 32,
+    "build": 33,
     "minBuild": 0,
-    "signature": "cfd9437653aec331b2a9acefd7a1ca9e9369a37faca9fd37c5f316d04f8b540a05e304af7b701dc79e5607ee8ea74b71bba590eeba6df81681fb9dbbed3eac0d"
+    "signature": "447931df020bc64afaab4db3f668038e29a95a61b7310e80c82a03c194ce1349e9b5eb4ed5f04d999df6944253d81a3b8e59ebdeda7baf3e739fbd5e9c8e6101"
   }
 }
