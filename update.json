@@ -9,12 +9,12 @@
     "sha256": "69f47787469e3bd8668e25976d821928db7545b57ea7e60ff70f397b8fb687ca"
   },
   "windows": {
-    "version": "1.14.3",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.14.3.exe",
-    "notes": "The top bar in the player now hides with the controls.",
+    "version": "1.14.4",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.14.4.exe",
+    "notes": "Player controls and title hide by themselves and come back when you move the mouse.",
     "force": false,
-    "build": 33,
+    "build": 34,
     "minBuild": 0,
-    "signature": "447931df020bc64afaab4db3f668038e29a95a61b7310e80c82a03c194ce1349e9b5eb4ed5f04d999df6944253d81a3b8e59ebdeda7baf3e739fbd5e9c8e6101"
+    "signature": "f920a4a501f076e6577894ed590aba456a140523e8db1bbb81fa89276300f4d353c7df30b656be75d823340533ed676f478aef67d9400cc497728cd82ec54009"
   }
 }
