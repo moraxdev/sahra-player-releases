@@ -9,12 +9,16 @@
     "sha256": "d5030a238e29f45b61b84b6c1d9253f1490fc968b24d51362982f97acddf0756"
   },
   "windows": {
-    "version": "1.15.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.15.0.exe",
-    "notes": "Sahra is now one file: copy Sahra-Player.exe to any PC and run it.",
+    "version": "1.15.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.15.1.exe",
+    "notes": "Sahra is now one file: copy Sahra-Player.exe to any PC and run it. Fixed updating large versions.",
     "force": false,
-    "build": 36,
+    "build": 37,
     "minBuild": 0,
-    "signature": "ce47315c77bd2aa42a49cde85f0e9efc6f205e646f53ee81985d31b852347db41620d1181cb88ace37b3b74db8ef46bfc58f56112546443abfe545802e506103"
+    "signature": "49e3f28e73fd7b1794acd1fd8727bc9622128cab49692a3c78453af3e6d01533496e4b5a8d6e2d33e430e99641b25920e8e8f2eb802694b331e19b5ef3d39900",
+    "onefile": {
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-onefile-1.15.1.exe",
+      "signature": "f682152d3c021c56d1f03b95a7e6756982b2f8ede018d5ff60246b59a97a8993978b85259e25217d19de274292c0228546940151dd58a4fe01945131d1105507"
+    }
   }
 }
