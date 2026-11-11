@@ -1,24 +1,24 @@
 {
   "android": {
-    "version": "1.16.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.16.1.apk",
-    "notes": "Fixed: speed test and ping showed wrong numbers.",
+    "version": "1.17.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.17.0.apk",
+    "notes": "Episodes button in the player. On TV, press Menu.",
     "force": false,
-    "code": 27,
+    "code": 28,
     "minCode": 0,
-    "sha256": "45dea24693e4e7d35978694512c82e0a31c7aaa79db764eda0931cd9d90b20d4"
+    "sha256": "114ed7197f87000928a1a4c16022302aa5c06f534d6ded5920d27117538c9405"
   },
   "windows": {
-    "version": "1.16.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.16.1.exe",
-    "notes": "Fixed: speed test and ping showed wrong numbers.",
+    "version": "1.17.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.17.0.exe",
+    "notes": "Episodes button in the player: see the season and jump to any episode.",
     "force": false,
-    "build": 39,
+    "build": 40,
     "minBuild": 0,
     "signature": "49e3f28e73fd7b1794acd1fd8727bc9622128cab49692a3c78453af3e6d01533496e4b5a8d6e2d33e430e99641b25920e8e8f2eb802694b331e19b5ef3d39900",
     "onefile": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-onefile-1.16.1.exe",
-      "signature": "7a161a34285a67a7eb9590396efc359ea24e3db594a787e113e8ab4230627f82fdbb09da22ff764d3db6aff08d79ed028951cadca3ebff3d6c7d34101632f407"
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-onefile-1.17.0.exe",
+      "signature": "a930ca5de7e62a58a3404db7d233e441c2c1661665884d7a8c3d2bc1b33615062dc1a38ba52aac26fe4337d98554391dadf650b103fdedc731527a27a7ea270b"
     }
   }
 }
