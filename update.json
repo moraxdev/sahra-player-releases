@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "1.14.5",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.14.5.apk",
-    "notes": "Continue watching shows one card per series.",
+    "version": "1.15.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.15.1.apk",
+    "notes": "Added a Back button in the player.",
     "force": false,
-    "code": 24,
+    "code": 25,
     "minCode": 0,
-    "sha256": "5f599578cf84ee6c19a586d3378be4f0cfe5444c5faf5f2d0b130e03d64a5b21"
+    "sha256": "d5030a238e29f45b61b84b6c1d9253f1490fc968b24d51362982f97acddf0756"
   },
   "windows": {
     "version": "1.15.0",
