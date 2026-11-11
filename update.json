@@ -1,24 +1,24 @@
 {
   "android": {
-    "version": "1.15.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.15.1.apk",
-    "notes": "Added a Back button in the player.",
+    "version": "1.16.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.16.0.apk",
+    "notes": "Settings: your IP, country and a speed test.",
     "force": false,
-    "code": 25,
+    "code": 26,
     "minCode": 0,
-    "sha256": "d5030a238e29f45b61b84b6c1d9253f1490fc968b24d51362982f97acddf0756"
+    "sha256": "44b9409cebf9ce511dfc56379d2dadc7a2d1a6de2ca671fd01db5febb1dba0a0"
   },
   "windows": {
-    "version": "1.15.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.15.1.exe",
-    "notes": "Sahra is now one file: copy Sahra-Player.exe to any PC and run it. Fixed updating large versions.",
+    "version": "1.16.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.16.0.exe",
+    "notes": "Settings > Network: your IP, country and a speed test. Fixed: video looked see-through after switching apps.",
     "force": false,
-    "build": 37,
+    "build": 38,
     "minBuild": 0,
     "signature": "49e3f28e73fd7b1794acd1fd8727bc9622128cab49692a3c78453af3e6d01533496e4b5a8d6e2d33e430e99641b25920e8e8f2eb802694b331e19b5ef3d39900",
     "onefile": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-onefile-1.15.1.exe",
-      "signature": "f682152d3c021c56d1f03b95a7e6756982b2f8ede018d5ff60246b59a97a8993978b85259e25217d19de274292c0228546940151dd58a4fe01945131d1105507"
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-onefile-1.16.0.exe",
+      "signature": "e80029f2f97bd0f093abc88877e44689f5df6b3ae129455e6b6f184d188da616d3c64a2948405b694fb1071865aff1e0f22ae61c7e885ee0ffaa7ffe65bc910e"
     }
   }
 }
