@@ -1,24 +1,24 @@
 {
   "android": {
-    "version": "1.16.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.16.0.apk",
-    "notes": "Settings: your IP, country and a speed test.",
+    "version": "1.16.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.16.1.apk",
+    "notes": "Fixed: speed test and ping showed wrong numbers.",
     "force": false,
-    "code": 26,
+    "code": 27,
     "minCode": 0,
-    "sha256": "44b9409cebf9ce511dfc56379d2dadc7a2d1a6de2ca671fd01db5febb1dba0a0"
+    "sha256": "45dea24693e4e7d35978694512c82e0a31c7aaa79db764eda0931cd9d90b20d4"
   },
   "windows": {
-    "version": "1.16.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.16.0.exe",
-    "notes": "Settings > Network: your IP, country and a speed test. Fixed: video looked see-through after switching apps.",
+    "version": "1.16.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.16.1.exe",
+    "notes": "Fixed: speed test and ping showed wrong numbers.",
     "force": false,
-    "build": 38,
+    "build": 39,
     "minBuild": 0,
     "signature": "49e3f28e73fd7b1794acd1fd8727bc9622128cab49692a3c78453af3e6d01533496e4b5a8d6e2d33e430e99641b25920e8e8f2eb802694b331e19b5ef3d39900",
     "onefile": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-onefile-1.16.0.exe",
-      "signature": "e80029f2f97bd0f093abc88877e44689f5df6b3ae129455e6b6f184d188da616d3c64a2948405b694fb1071865aff1e0f22ae61c7e885ee0ffaa7ffe65bc910e"
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-onefile-1.16.1.exe",
+      "signature": "7a161a34285a67a7eb9590396efc359ea24e3db594a787e113e8ab4230627f82fdbb09da22ff764d3db6aff08d79ed028951cadca3ebff3d6c7d34101632f407"
     }
   }
 }
