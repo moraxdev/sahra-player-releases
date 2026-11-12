@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "1.17.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.17.0.apk",
-    "notes": "Episodes button in the player. On TV, press Menu.",
+    "version": "1.17.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.17.1.apk",
+    "notes": "Search in Movies, Series and Live TV. Easier category list on phones.",
     "force": false,
-    "code": 28,
+    "code": 29,
     "minCode": 0,
-    "sha256": "114ed7197f87000928a1a4c16022302aa5c06f534d6ded5920d27117538c9405"
+    "sha256": "ccd12ac9cdf5678e8cd86d139be0ff3b53ce27dbffaf5c3c1ed0577aef8f9203"
   },
   "windows": {
     "version": "1.17.0",
