@@ -1,24 +1,24 @@
 {
   "android": {
-    "version": "1.17.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.17.1.apk",
-    "notes": "Search in Movies, Series and Live TV. Easier category list on phones.",
+    "version": "1.17.2",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.17.2.apk",
+    "notes": "Posters show the release year.",
     "force": false,
-    "code": 29,
+    "code": 30,
     "minCode": 0,
-    "sha256": "ccd12ac9cdf5678e8cd86d139be0ff3b53ce27dbffaf5c3c1ed0577aef8f9203"
+    "sha256": "19a75b9838e0d265273ff636dd902736fa349d762750c88ced895ab224d1c496"
   },
   "windows": {
-    "version": "1.17.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.17.0.exe",
-    "notes": "Episodes button in the player: see the season and jump to any episode.",
+    "version": "1.17.2",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.17.2.exe",
+    "notes": "Posters show the release year.",
     "force": false,
-    "build": 40,
+    "build": 41,
     "minBuild": 0,
     "signature": "49e3f28e73fd7b1794acd1fd8727bc9622128cab49692a3c78453af3e6d01533496e4b5a8d6e2d33e430e99641b25920e8e8f2eb802694b331e19b5ef3d39900",
     "onefile": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-onefile-1.17.0.exe",
-      "signature": "a930ca5de7e62a58a3404db7d233e441c2c1661665884d7a8c3d2bc1b33615062dc1a38ba52aac26fe4337d98554391dadf650b103fdedc731527a27a7ea270b"
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-onefile-1.17.2.exe",
+      "signature": "910c41f80457bf1cc8f67396c5b083ccd55d6dc21c078a7ea854daf62d05d42e83b1cc4be93c179d28edf01d3145ad27aa7f10cd584bf8e058ac665f369d550e"
     }
   }
 }
