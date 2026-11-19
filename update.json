@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "1.17.2",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.17.2.apk",
-    "notes": "Posters show the release year.",
+    "version": "1.17.3",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.17.3.apk",
+    "notes": "Fixed: buttons overlapping at the top of the player.",
     "force": false,
-    "code": 30,
+    "code": 31,
     "minCode": 0,
-    "sha256": "19a75b9838e0d265273ff636dd902736fa349d762750c88ced895ab224d1c496"
+    "sha256": "983e188e5fd992559e4914e4d2b0c1cd133e1fa1fcaa4a6f0856792b8458a5d1"
   },
   "windows": {
     "version": "1.17.2",
