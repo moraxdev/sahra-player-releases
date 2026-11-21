@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "1.17.3",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.17.3.apk",
-    "notes": "Fixed: buttons overlapping at the top of the player.",
+    "version": "1.17.4",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.17.4.apk",
+    "notes": "Fixed: the remote sometimes stopped controlling the player.",
     "force": false,
-    "code": 31,
+    "code": 32,
     "minCode": 0,
-    "sha256": "983e188e5fd992559e4914e4d2b0c1cd133e1fa1fcaa4a6f0856792b8458a5d1"
+    "sha256": "e843c58c72bf2b52ddc9fe2717f68353bdc0aad86608227e020f836f844e08fd"
   },
   "windows": {
     "version": "1.17.2",
