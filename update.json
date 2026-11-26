@@ -9,21 +9,16 @@
     "sha256": "681661ebe968edcb2ec9500455237cc5bf5435920d8517c167151b161a3fdea4"
   },
   "windows": {
-    "version": "1.18.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.18.0.exe",
-    "notes": "New look: Night Glass design, matching Sahra Hub and PMO Toolkit.",
+    "version": "1.18.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.18.1.exe",
+    "notes": "Fixed: Live TV page was see-through around the video.",
     "force": false,
-    "build": 42,
+    "build": 43,
     "minBuild": 0,
     "signature": "49e3f28e73fd7b1794acd1fd8727bc9622128cab49692a3c78453af3e6d01533496e4b5a8d6e2d33e430e99641b25920e8e8f2eb802694b331e19b5ef3d39900",
     "onefile": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-onefile-1.18.0.exe",
-      "signature": "6c33e1f64ad16578a4937d6e11305bb8f0f17327f4eae1fc6bb636e13ca2fd6902a539e665f61e0030f7617fe482402c52d76a6cf47bcce3649277907082630e"
-    },
-    "installer": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/installers/Sahra-Player-Setup-1.18.0.exe",
-      "size": 83102397,
-      "signature": "740730c83a41c0bdc95e635572f323bae08ae836b716c2a82d1c8e860902f25eeb6c304699cebdc9a574d9b69fddafeae79bfeeb55eeced0647f7181b3fc2901"
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-onefile-1.18.1.exe",
+      "signature": "70d2a710096fc4efde27f7a7d2291b789f17b387d4fe4d9efef3ca198ee7b77274c788d1198db2e0f7c2564b841439a4d45b6dd7f30359635dde3bb8addb1a0b"
     }
   }
 }
