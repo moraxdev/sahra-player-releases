@@ -1,0 +1,7 @@
+{
+  "app": "Sahra Player",
+  "exe": "sahra-player.exe",
+  "key": "SahraPlayer",
+  "icon": "installer-icon.ico",
+  "base": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/"
+}

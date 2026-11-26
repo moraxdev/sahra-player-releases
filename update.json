@@ -19,6 +19,11 @@
     "onefile": {
       "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-onefile-1.17.2.exe",
       "signature": "910c41f80457bf1cc8f67396c5b083ccd55d6dc21c078a7ea854daf62d05d42e83b1cc4be93c179d28edf01d3145ad27aa7f10cd584bf8e058ac665f369d550e"
+    },
+    "installer": {
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/installers/Sahra-Player-Setup-1.17.2.exe",
+      "size": 83296395,
+      "signature": "28c34e8ae4820888605b2d0c9cd6aceb4b58dd3ba62eb3e5f965cdacdba13f3e1438af15d26549596a1c2ae1152c47b067bcf0f2b1c7630e95986438ed619001"
     }
   }
 }

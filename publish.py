@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Adds a build to the update feed.
+"""Adds a build to the update feed. Windows releases also get an installer (make_installer.py) for Sahra Hub.
   publish.py android <apk> <versionCode> <version> [--force] [--min N] [--notes TEXT]
   publish.py windows <bridge.exe> <build> <version> --key update-key.pem --onefile <Sahra-Player.exe> [--force] [--min N] [--notes TEXT]
 Windows: "url" is the small bridge (versions before 1.15.1 read at most 32 MB of a download);
@@ -32,3 +32,7 @@ else:
 feed = json.load(open("update.json")) if os.path.exists("update.json") else {}
 feed[o.platform] = entry
 json.dump(feed, open("update.json", "w"), indent=2, ensure_ascii=False)
+# Sahra Hub installs from an installer, so every Windows release also gets one (needs makensis).
+if o.platform == "windows" and o.onefile:
+    import subprocess, sys
+    subprocess.run([sys.executable, "make_installer.py", o.onefile, o.version, "--key", o.key], check=True)
