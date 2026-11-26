@@ -1,29 +1,29 @@
 {
   "android": {
-    "version": "1.17.4",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.17.4.apk",
-    "notes": "Fixed: the remote sometimes stopped controlling the player.",
+    "version": "1.18.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.18.0.apk",
+    "notes": "New look: Night Glass design, matching Sahra Hub and PMO Toolkit.",
     "force": false,
-    "code": 32,
+    "code": 33,
     "minCode": 0,
-    "sha256": "e843c58c72bf2b52ddc9fe2717f68353bdc0aad86608227e020f836f844e08fd"
+    "sha256": "681661ebe968edcb2ec9500455237cc5bf5435920d8517c167151b161a3fdea4"
   },
   "windows": {
-    "version": "1.17.2",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.17.2.exe",
-    "notes": "Posters show the release year.",
+    "version": "1.18.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.18.0.exe",
+    "notes": "New look: Night Glass design, matching Sahra Hub and PMO Toolkit.",
     "force": false,
-    "build": 41,
+    "build": 42,
     "minBuild": 0,
     "signature": "49e3f28e73fd7b1794acd1fd8727bc9622128cab49692a3c78453af3e6d01533496e4b5a8d6e2d33e430e99641b25920e8e8f2eb802694b331e19b5ef3d39900",
     "onefile": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-onefile-1.17.2.exe",
-      "signature": "910c41f80457bf1cc8f67396c5b083ccd55d6dc21c078a7ea854daf62d05d42e83b1cc4be93c179d28edf01d3145ad27aa7f10cd584bf8e058ac665f369d550e"
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-onefile-1.18.0.exe",
+      "signature": "6c33e1f64ad16578a4937d6e11305bb8f0f17327f4eae1fc6bb636e13ca2fd6902a539e665f61e0030f7617fe482402c52d76a6cf47bcce3649277907082630e"
     },
     "installer": {
-      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/installers/Sahra-Player-Setup-1.17.2.exe",
-      "size": 83296395,
-      "signature": "28c34e8ae4820888605b2d0c9cd6aceb4b58dd3ba62eb3e5f965cdacdba13f3e1438af15d26549596a1c2ae1152c47b067bcf0f2b1c7630e95986438ed619001"
+      "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/installers/Sahra-Player-Setup-1.18.0.exe",
+      "size": 83102397,
+      "signature": "740730c83a41c0bdc95e635572f323bae08ae836b716c2a82d1c8e860902f25eeb6c304699cebdc9a574d9b69fddafeae79bfeeb55eeced0647f7181b3fc2901"
     }
   }
 }
