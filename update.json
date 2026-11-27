@@ -1,29 +1,29 @@
 {
   "android": {
-    "version": "1.18.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.18.0.apk",
-    "notes": "New look: Night Glass design, matching Sahra Hub and PMO Toolkit.",
+    "version": "1.18.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/android/sahra-player-1.18.1.apk",
+    "notes": "New app icon and Android TV banner.",
     "force": false,
-    "code": 33,
+    "code": 34,
     "minCode": 0,
-    "sha256": "681661ebe968edcb2ec9500455237cc5bf5435920d8517c167151b161a3fdea4"
+    "sha256": "6ffb88ae72e6bef45ddd0866d56a949f5cc8282ceead8dcb438b98f279b7f8a4"
   },
   "windows": {
     "version": "1.18.1",
     "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-player-1.18.1.exe",
-    "notes": "Fixed: Live TV page was see-through around the video.",
+    "notes": "New app icon.",
     "force": false,
     "build": 43,
     "minBuild": 0,
     "signature": "49e3f28e73fd7b1794acd1fd8727bc9622128cab49692a3c78453af3e6d01533496e4b5a8d6e2d33e430e99641b25920e8e8f2eb802694b331e19b5ef3d39900",
     "onefile": {
       "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/windows/sahra-onefile-1.18.1.exe",
-      "signature": "70d2a710096fc4efde27f7a7d2291b789f17b387d4fe4d9efef3ca198ee7b77274c788d1198db2e0f7c2564b841439a4d45b6dd7f30359635dde3bb8addb1a0b"
+      "signature": "bfef2692ef8faf7e62cd8de1521f9a0eaebc8d915cb0603756cf7a3d869587239cf5d585ca9d5bdc24db61a553747235eedf73d460362700132f891b64463209"
     },
     "installer": {
       "url": "https://raw.githubusercontent.com/moraxdev/sahra-player-releases/main/installers/Sahra-Player-Setup-1.18.1.exe",
-      "size": 83102729,
-      "signature": "2ac093843b85cf04efa276f7b21965ba93bbde30b9154e72d779aa9dead4e936fa1be33afdc3aab5e7af077a152edeafb0f52d3f5fa195650e6f937f55939d04"
+      "size": 83301459,
+      "signature": "783070645dcdb93df6e48235d7f87753a24719bcc84cb67561979837427770af068b8b1aaac30596e07b2271a2ff3c48b5697b5534ba86aab4eb7aaee2ec1f08"
     }
   }
 }
